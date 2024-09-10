@@ -1,6 +1,8 @@
 # YouTube-Clone
 This repository contains a simplified clone of YouTube built using HTML and CSS
-# The project aims to replicate the basic layout and design of the YouTube homepage, focusing on essential elements such as the header, navigation bar, video grid, and footer. This project is ideal for practicing responsive web design and mastering layout techniques without any backend functionality.
+
+
+The project aims to replicate the basic layout and design of the YouTube homepage, focusing on essential elements such as the header, navigation bar, video grid, and footer. This project is ideal for practicing responsive web design and mastering layout techniques without any backend functionality.
 
 Features:
 
