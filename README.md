@@ -1,4 +1,5 @@
-# YouTube-Clone
+# YouTube-Clone using HTML and CSS
+
 This repository contains a simplified clone of YouTube built using HTML and CSS
 
 
